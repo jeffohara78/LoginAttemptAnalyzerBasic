@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\LoginAttemptAnalyzer\LoginAttemptAnalyzer\obj\Debug\net8.0\LoginAttemptAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\LoginAttemptAnalyzer\LoginAttemptAnalyzer\obj\Debug\net8.0\LoginAttemptAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\LoginAttemptAnalyzer\LoginAttemptAnalyzer\obj\Debug\net8.0\LoginAttemptAnalyzer.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\LoginAttemptAnalyzer\LoginAttemptAnalyzer\obj\Debug\net8.0\LoginAttemptAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\LoginAttemptAnalyzer\LoginAttemptAnalyzer\bin\Debug\net8.0\LoginAttemptAnalyzer.exe
+C:\Users\Jeff\source\repos\LoginAttemptAnalyzer\LoginAttemptAnalyzer\bin\Debug\net8.0\LoginAttemptAnalyzer.deps.json
+C:\Users\Jeff\source\repos\LoginAttemptAnalyzer\LoginAttemptAnalyzer\bin\Debug\net8.0\LoginAttemptAnalyzer.runtimeconfig.json
+C:\Users\Jeff\source\repos\LoginAttemptAnalyzer\LoginAttemptAnalyzer\bin\Debug\net8.0\LoginAttemptAnalyzer.dll
+C:\Users\Jeff\source\repos\LoginAttemptAnalyzer\LoginAttemptAnalyzer\bin\Debug\net8.0\LoginAttemptAnalyzer.pdb
+C:\Users\Jeff\source\repos\LoginAttemptAnalyzer\LoginAttemptAnalyzer\obj\Debug\net8.0\LoginAttemptAnalyzer.dll
+C:\Users\Jeff\source\repos\LoginAttemptAnalyzer\LoginAttemptAnalyzer\obj\Debug\net8.0\refint\LoginAttemptAnalyzer.dll
+C:\Users\Jeff\source\repos\LoginAttemptAnalyzer\LoginAttemptAnalyzer\obj\Debug\net8.0\LoginAttemptAnalyzer.pdb
+C:\Users\Jeff\source\repos\LoginAttemptAnalyzer\LoginAttemptAnalyzer\obj\Debug\net8.0\LoginAttemptAnalyzer.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\LoginAttemptAnalyzer\LoginAttemptAnalyzer\obj\Debug\net8.0\ref\LoginAttemptAnalyzer.dll
